@@ -4,13 +4,14 @@ A simple commandline tool to quicly record ideas
 
 ## Installation
 
-1. Install visual studio 2022
-2. Open the solution file
-3. Build the project
-4. Copy the files to a directory of your choice
-5. Add the directory to your PATH
-6. Open a new terminal
-7. Run the command `idea [options]`
+1. Install visual studio 2022 and git
+2. Clone the repo
+3. Open the solution file
+4. Build the project
+5. Copy the files to a directory of your choice
+6. Add the directory to your PATH
+7. Open a new terminal
+8. Run the command `idea [options]`
 
 ## Usage
 
